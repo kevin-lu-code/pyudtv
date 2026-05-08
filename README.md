@@ -18,7 +18,7 @@ CREATE EXTENSION IF NOT EXISTS ud_vector;
 ```
 
 ## pymilvus与pyudtv差异对比
-1、 创建客户端连接方式差异。 这个差异也是代理不同后端的依据。
+1、 创建客户端连接方式差异。
 ```
 # 九有Client连接方式
 from pymilvus import MilvusClient
