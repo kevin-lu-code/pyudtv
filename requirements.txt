@@ -1,0 +1,9 @@
+orjson
+numpy
+python-dotenv
+python-dateutil
+pandas
+requests
+cachetools
+psycopg2-binary
+
